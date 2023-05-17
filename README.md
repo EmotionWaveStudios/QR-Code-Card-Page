@@ -13,7 +13,7 @@ This is a simple QR code webpage
 
 ## Live view
 
-[My QR Code Card Page]()
+[My QR Code Card Page](https://tubular-entremet-1f4a36.netlify.app/)
 
 ## Prerequisite
 
